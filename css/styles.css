@@ -126,6 +126,29 @@ hr {
     color: #E6A802;
 }
 
+/* Abour Us Section */
+#about {
+    background-color: #616161;
+    color: #fff;
+    text-align: center;
+    font-family: "Ubuntu", sans-serif;
+    padding: 7% 15%;
+}
+.about-title {
+    margin-bottom: 50px;
+}
+.about-text {
+    color: #fff;
+    font-size: 1.25rem;
+}
+.about-img {
+    margin-top: 38px;
+    width: 54%;
+}
+.about-crew {
+    width: 75%;
+}
+
 /* Menu section */
 
 #menu {
@@ -135,6 +158,7 @@ hr {
 .menu-title {
     font-family: "Ubuntu", sans-serif;
     color: #E6A802;
+    margin-top: 20px;
 }
 .carousel-button {
     filter: invert(100%);
